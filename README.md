@@ -1,5 +1,10 @@
 # Surfs_up Analysis with SQLite
 
+Tools and Data Sources
+- Data Source: hawaii.sqlite
+- Tools: Python SQL toolkit, Pandas, NumPy, ORM (Object Relational Mapper)
+- Software: Python 3.9, Jupyter Notebook, SQLlite
+
 # Overview of the statistical analysis
 The purpose of the analysis is to utilize Advanced Data Storage and Retrieval to understand the temperature trends in Oahu, Hawaii before opening a new surf shop. By checking the temperatures specifically for Summer and Winter months to determine if the surf and ice cream shop business is more sustainable year-round as opposed to a seasonal operation.
 
