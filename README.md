@@ -1,17 +1,17 @@
 # Surfs_up Analysis with SQLite
 
 # Overview of the statistical analysis
-The purpose of the analysis is to understand the temperature trends in Hawaii before opening a new surf shop. By checking the temperatures specifically for Summer and Winter months to determine if the surf and ice cream shop business is sustainable year-round.
+The purpose of the analysis is to utilize Advanced Data Storage and Retrieval to understand the temperature trends in Oahu, Hawaii before opening a new surf shop. By checking the temperatures specifically for Summer and Winter months to determine if the surf and ice cream shop business is more sustainable year-round as opposed to a seasonal operation.
 
 ![surf_hawaii_surf_up](https://github.com/ytn20/Surfs_up/assets/100486461/3ac9df28-c9bb-43c9-8a20-de9ae34e7efe)
 
 # Results of Analysis
-Key differences in weather between June and December are as follows:
+Key differences in weather in Oahu, Hawaii between June and December are as follows:
 - The temperatures are higher in June than in December and the temperatures are lower in December than in June
 - The average temperatures are almost the same during the two months, with the average temperature in June being almost 3 degrees higher
-- The temperatures flucate more during December than June based on the stdev measure
-- The maximum temperatures are also only different by 2 degrees, however there is a greater difference between the minimum temperatures for each month. December's lowest temperature is 6 degrees lower than June's lowest temperature
-- These findings help us predict how the shop will perform through Summer and Winters and if it would be sustainable all year-round
+- The temperatures fluctuate more during December than June based on the stdev measure
+- The maximum temperatures are also only different by 2 degrees, however, there is a greater difference between the minimum temperatures for each month. December's lowest temperature is 6 degrees lower than June's lowest temperature
+- These findings help us predict how the shop will perform through Summer and Winter and if it would be sustainable all year-round
 
 ## Summer Temperatures
 
