@@ -3,10 +3,6 @@
 # Overview of the statistical analysis
 The purpose of the analysis is to understand the temperature trends in Hawaii before opening a new surf shop. By checking the temperatures specifically for Summer and Winter months to determine if the surf and ice cream shop business is sustainable year-round.
 
-<p align="center">
-  <img src="Resources/surf_hawaii_surf_up.webp" width="350">
-</p>
-
 ![surf_hawaii_surf_up](https://github.com/ytn20/Surfs_up/assets/100486461/3ac9df28-c9bb-43c9-8a20-de9ae34e7efe)
 
 # Results of Analysis
