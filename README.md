@@ -2,7 +2,7 @@
 
 Tools and Data Sources
 - Data Source: hawaii.sqlite
-- Tools: Python SQL toolkit, Pandas, NumPy, ORM (Object Relational Mapper)
+- Tools: Python SQL toolkit, Pandas, NumPy, SQLAlchemy, ORM (Object Relational Mapper)
 - Software: Python 3.9, Jupyter Notebook, SQLlite
 
 # Overview of the statistical analysis
